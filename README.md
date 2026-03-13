@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Kalp Parekh
 
-<!--
-**kalpparekh-dev/kalpparekh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E IT Student  
+💻 Learning Java, Python and AI  
+🚀 Building projects and improving coding skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+
+---
+
+## 📂 My Projects
+
+🔹 Java Practice Programs  
+🔹 Python Learning Programs  
+🔹 Student Management System  
+🔹 Developer Portfolio Website  
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/kalp-parekh-5032b03b7/
+
+GitHub:  
+https://github.com/kalpparekh-dev
+
+---
+
+⭐ Always learning new technologies and improving my development skills.
